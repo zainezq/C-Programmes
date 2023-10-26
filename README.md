@@ -30,19 +30,21 @@ Welcome to my GitHub repository where I showcase various low-level, easy C proje
 These instructions will guide you on how to get a copy of the projects up and running on your local machine for development and testing purposes.
 
 **Prerequisites**:
+
 Before you begin, make sure you have the following prerequisites installed:
 - C Compiler: You need a C compiler like GCC to build and run the C programs.
 
 **Installation**
 1. Clone the repository to your local machine using Git:
-git clone https://github.com/your-username/your-repo.git
+`git clone https://github.com/your-username/your-repo.git`
 
 2. Navigate to the project directory:
-cd your-repo
+`cd your-repo`
 
 3. Compile the C program. If the project requires compilation, use the appropriate compiler. For example, to compile a C file named `program.c`:
-gcc -o program program.c
+
+`gcc -o program program.c`
 
 4. Run the program:
-./program
-Replace **program** with the respective exe file name that you have given in step 3
+`./program`
+Replace `program` with the respective `exe` file name that you have given in step 3
