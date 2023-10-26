@@ -29,7 +29,7 @@ Welcome to my GitHub repository where I showcase various low-level, easy C proje
 
 These instructions will guide you on how to get a copy of the projects up and running on your local machine for development and testing purposes.
 
-**Prerequisites**
+**Prerequisites**:
 Before you begin, make sure you have the following prerequisites installed:
 - C Compiler: You need a C compiler like GCC to build and run the C programs.
 
