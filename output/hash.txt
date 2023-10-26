@@ -1,0 +1,11 @@
+This is a sample text file. It contains some words that will be used for word frequency counting.
+
+Here are some words in the file:
+apple
+banana
+cherry
+apple
+banana
+date
+date
+date
