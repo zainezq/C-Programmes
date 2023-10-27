@@ -6,9 +6,8 @@ Welcome to my GitHub repository where I showcase various low-level, easy C proje
 
 1. [Project Descriptions](#project-descriptions)
 2. [Getting Started](#getting-started)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
+3. [Contributing](#contributing)
+4. [License](#license)
 
 ## Project Descriptions
 
@@ -48,3 +47,26 @@ Before you begin, make sure you have the following prerequisites installed:
 4. Run the program:
 `./program`
 Replace `program` with the respective `exe` file name that you have given in step 3
+
+5. Follow the above compilation and execution steps for the specific project you want to work on. Each project may have its own source file (e.g., `program.c`), so make sure you are in the correct project directory and compile and run the corresponding source file.
+
+6. After running the program, you will see the output on your terminal (some may prompt for input), which is typically the result of the specific project's functionality.
+
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to the repository, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Clone your forked repository to your local machine: `git clone https://github.com/zainezq/C-Programmes.git`
+3. Create a new branch for your feature or bug fix: `git checkout -b your-feature`
+4. Make your changes and test them.
+5. Commit your changes: `git commit -m "Description of your changes"`
+6. Push your changes to your forked repository: `git push origin your-feature`
+7. Create a Pull Request on the main repository's GitHub page.
+
+We will review your Pull Request and consider merging it into the main repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
