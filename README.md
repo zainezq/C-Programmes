@@ -23,6 +23,9 @@ Welcome to my GitHub repository where I showcase various low-level, easy C proje
 ### Project 4: Basic Calculator
 - **Description**: This Basic Calculator C program is a versatile utility that performs four fundamental arithmetic operations: addition, subtraction, multiplication, and division on two numbers. Users can input two numbers and choose the operation they want to perform, and the program returns the result.
 
+### Project 5: Meet And Greet
+- **Description**: A simple C program that asks the user for their name and then greets them. 
+
 
 ## Getting Started
 
