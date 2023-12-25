@@ -26,7 +26,9 @@ Welcome to my GitHub repository where I showcase various low-level, easy C proje
 ### Project 5: Meet And Greet
 - **Description**: A simple C program that asks the user for their name and then greets them. 
 
-
+### Project 6: Guess the number
+- **Description**: A simple C program that asks the user for a number between 0-19 and then checks if it matches the random number generated.
+  
 ## Getting Started
 
 These instructions will guide you on how to get a copy of the projects up and running on your local machine for development and testing purposes.
