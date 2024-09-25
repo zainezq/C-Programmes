@@ -37,12 +37,7 @@ These lexers are incomplete and may not handle all possible input cases. They ar
    
 ![Compilation Diagram](https://raw.githubusercontent.com/zainezq/C-Programmes/main/lexer-skeleton/CompilerDiagram.png)
 
-## Contributing
-
-Feel free to contribute to these lexers by addressing their limitations, adding new features, or enhancing their robustness. Contributions that help learners understand the principles behind lexing are highly encouraged.
 
 ## Disclaimer
 
 These lexers are not intended for production use. If you require a production-ready lexer, consider using established tools and libraries such as Flex.
-
-Happy learning! 🚀
