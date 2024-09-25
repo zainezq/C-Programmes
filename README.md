@@ -70,17 +70,27 @@ Before you begin, make sure you have the following prerequisites installed:
 
 **Installation**
 1. Clone the repository to your local machine using Git:
-`git clone https://github.com/zainezq/C-Programmes.git`
+  ```bash
+  git clone https://github.com/zainezq/C-Programmes.git
+  ```
 
 2. Navigate to the project directory:
-`cd C-Programmes/`
+  
+  ```bash
+  cd C-Programmes/
+  ```
 
-3. Compile the C program. If the project requires compilation, use the appropriate compiler. For example, to compile a C file named `program.c`:
+4. Compile the C program. If the project requires compilation, use the appropriate compiler. For example, to compile a C file named `program.c`:
 
-`gcc -o program program.c`
+  ```bash
+  gcc -o program program.c
+  ```
 
 4. Run the program:
-`./program`
+  ```bash
+  ./program
+  ```
+
 Replace `program` with the respective `program.c` file name that you have given in step 3
 
 5. Follow the above compilation and execution steps for the specific project you want to work on. Each project may have its own source file (e.g., `program.c`), so make sure you are in the correct project directory and compile and run the corresponding source file.
