@@ -35,7 +35,7 @@ These lexers are incomplete and may not handle all possible input cases. They ar
 ## Compiler Diagram 
    **A simple diagram to help understand how compilers work:**
    
-   ![Compilation Diagram](https://github.com/zainezq/C-Programmes/lexer-skeleton/CompilerDiagram.png)
+![Compilation Diagram](https://raw.githubusercontent.com/zainezq/C-Programmes/main/lexer-skeleton/CompilerDiagram.png)
 
 ## Contributing
 
