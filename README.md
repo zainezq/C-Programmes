@@ -35,7 +35,10 @@ Welcome to my GitHub repository where I showcase various low-level, easy C proje
 
 - **Description**: This repository contains two example lexers written in C that are intended for learning purposes. The lexers are not complete and do not handle all possible cases. They serve as a starting point for understanding the basics of lexer implementation in the context of compiler construction.
 
-  
+### Project 9: Firewall Configuration Program (firewall-config/)
+
+- **Description**: This project consists of a multi-threaded server and a client program written in C to manage firewall configurations. The server listens on a specified port and processes requests from clients to add, delete, or check firewall rules. The client program allows users to interact with the server and manage firewall rules remotely.
+
 ## Getting Started
 
 These instructions will guide you on how to get a copy of the projects up and running on your local machine for development and testing purposes.
@@ -57,7 +60,7 @@ Before you begin, make sure you have the following prerequisites installed:
   cd C-Programmes/
   ```
 
-4. Compile the C program. If the project requires compilation, use the appropriate compiler. For example, to compile a C file named `program.c`:
+4. Compile the C program. If the project has it's own README.md, then refer to that for more instructions, otherwise use the below example to compile a standalone program. For example, to compile a C file named `program.c`:
 
   ```bash
   gcc -o program program.c
