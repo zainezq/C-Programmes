@@ -1,5 +1,3 @@
-### README.md:
-
 # Simple Lexers for Learning Purposes
 
 This repository contains two example lexers written in C that are intended for learning purposes. The lexers are not complete and do not handle all possible cases. They serve as a starting point for understanding the basics of lexer implementation in the context of compiler construction.
