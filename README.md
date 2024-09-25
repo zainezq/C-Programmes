@@ -31,7 +31,7 @@ Welcome to my GitHub repository where I showcase various low-level, easy C proje
 ### Project 7: Single Threaded client-server chat (single-threaded-chat/)
 - **Description**: A basic client and server programs that allow a single client to send a message to the server, and the server echo's the message back to the client.
   
-### Project 8: Simple Lexers for Learning Purposes
+### Project 8: Simple Lexers for Learning Purposes (lexer-skeleton/)
 
 - **Description**: This repository contains two example lexers written in C that are intended for learning purposes. The lexers are not complete and do not handle all possible cases. They serve as a starting point for understanding the basics of lexer implementation in the context of compiler construction.
 
