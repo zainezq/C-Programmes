@@ -39,6 +39,11 @@ Welcome to my GitHub repository where I showcase various low-level, easy C proje
 
 - **Description**: This project consists of a multi-threaded server and a client program written in C to manage firewall configurations. The server listens on a specified port and processes requests from clients to add, delete, or check firewall rules. The client program allows users to interact with the server and manage firewall rules remotely.
 
+### Project 10: Simple File Management Program (file-nav/)
+
+- **Description**: This program is a basic command-line file management tool written in C. It provides several options for interacting with files and directories in the current working directory. The program includes functionalities such as displaying the current directory, creating new files, listing all files, removing files, and displaying the content of a file.
+
+
 ## Getting Started
 
 These instructions will guide you on how to get a copy of the projects up and running on your local machine for development and testing purposes.
