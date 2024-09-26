@@ -43,6 +43,9 @@ Welcome to my GitHub repository where I showcase various low-level, easy C proje
 
 - **Description**: This program is a basic command-line file management tool written in C. It provides several options for interacting with files and directories in the current working directory. The program includes functionalities such as displaying the current directory, creating new files, listing all files, removing files, and displaying the content of a file.
 
+### Project 11: Multi Threaded Client Server TCP Chat Application (multi-threaded-chat/)
+
+This is a basic multi-threaded TCP client-server chat application written in C, where multiple clients can connect to the server and exchange messages. Custom (valid) port number can be supplied as an argument.
 
 ## Getting Started
 
